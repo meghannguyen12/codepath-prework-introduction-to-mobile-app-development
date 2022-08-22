@@ -7,7 +7,7 @@ This is Hello Word app built in Android Studio using Kotlin.
 
 ### App Walk-though
 
-<img src="[kotlin prework](https://user-images.githubusercontent.com/98203762/185854416-09a586b8-abdd-4cad-bc7f-aa32d6450cc2.gif)" width=200><br>
+![kotlin prework](https://user-images.githubusercontent.com/98203762/185854601-279f13c5-b19f-4f85-bf8f-82fbb8ef6814.gif)
 
 ### Required User Stories!
 
